@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38092143766",
+    "project_id": "reservi-aa551",
+    "storage_bucket": "reservi-aa551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38092143766:android:fd6f2c0ea09a88e8f8d6b7",
+        "android_client_info": {
+          "package_name": "com.example.reservi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38092143766-gr3b0suh5ja01ab15qvun636iugldgss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUvn_a33tRhvOUc0XKE0gRvhySzMiHJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38092143766-gr3b0suh5ja01ab15qvun636iugldgss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
